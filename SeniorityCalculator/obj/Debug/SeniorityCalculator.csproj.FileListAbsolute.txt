@@ -1,0 +1,10 @@
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\bin\Debug\SeniorityCalculator.exe.config
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\bin\Debug\SeniorityCalculator.exe
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\bin\Debug\SeniorityCalculator.pdb
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.csprojAssemblyReference.cache
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.Properties.Resources.resources
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.csproj.GenerateResource.cache
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.csproj.CoreCompileInputs.cache
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.exe
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.pdb
+C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.Form1.resources
