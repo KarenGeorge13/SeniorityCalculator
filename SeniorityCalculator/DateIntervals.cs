@@ -10,10 +10,6 @@ namespace SeniorityCalculator
 	{
 		public DateTime start;
 		public DateTime end;
-		public override string ToString()
-		{
-			return (start.ToString() + "  " + end.ToString());
-		}
 		public int CompareTo(object obj)
 		{
 			DateInterval inter = obj as DateInterval;

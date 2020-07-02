@@ -12,10 +12,10 @@ using System.Windows.Forms;
 namespace SeniorityCalculator
 {
 	
-	public partial class Form1 : Form
+	public partial class MainForm : Form
 	{
 		private List<Panel> panels;
-		public Form1()
+		public MainForm()
 		{
 			InitializeComponent();
 			panels = new List<Panel>();
@@ -138,8 +138,7 @@ namespace SeniorityCalculator
 			}
 		}
 
-
-		private void toolStripButton1_Click(object sender, EventArgs e)
+		private void addNewPeriodButton_Click(object sender, EventArgs e)
 		{
 			Panel panel = CreateNewPanel(panels.Count + 1, panels.ElementAt(panels.Count - 1).Location.Y);
 			panels.Add(panel);
@@ -189,7 +188,7 @@ namespace SeniorityCalculator
 				if (buf.end < buf.start) 
 				{
 					MessageBox.Show("Дата приема на работу не может быть позже даты увольнения\nПроверьте правильность заполнения данных");
-					break;
+					return;
 				}
 				ListOfIntervals.Add(buf);
 				i++;

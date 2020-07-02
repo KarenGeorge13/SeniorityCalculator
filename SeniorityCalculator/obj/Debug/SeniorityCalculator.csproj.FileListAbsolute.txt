@@ -8,3 +8,13 @@ C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\Se
 C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.exe
 C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.pdb
 C:\Users\karli\source\repos\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.Form1.resources
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\bin\Debug\SeniorityCalculator.exe.config
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\bin\Debug\SeniorityCalculator.exe
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\bin\Debug\SeniorityCalculator.pdb
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.csprojAssemblyReference.cache
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.MainForm.resources
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.Properties.Resources.resources
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.csproj.GenerateResource.cache
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.csproj.CoreCompileInputs.cache
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.exe
+C:\Users\karli\OneDrive\Рабочий стол\SeniorityCalculator\SeniorityCalculator\obj\Debug\SeniorityCalculator.pdb
